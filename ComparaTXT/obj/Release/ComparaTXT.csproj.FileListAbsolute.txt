@@ -1,0 +1,18 @@
+C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\bin\Release\ComparaTXT.exe.config
+C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\bin\Release\ComparaTXT.exe
+C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\bin\Release\ComparaTXT.pdb
+C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.csprojResolveAssemblyReference.cache
+C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.Form1.resources
+C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.Properties.Resources.resources
+C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.csproj.GenerateResource.Cache
+C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.exe
+C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.pdb
+D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.csprojResolveAssemblyReference.cache
+D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.Form1.resources
+D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.Properties.Resources.resources
+D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.csproj.GenerateResource.Cache
+D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.exe
+D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\bin\Release\ComparaTXT.exe.config
+D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\bin\Release\ComparaTXT.exe
+D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\bin\Release\ComparaTXT.pdb
+D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.pdb
