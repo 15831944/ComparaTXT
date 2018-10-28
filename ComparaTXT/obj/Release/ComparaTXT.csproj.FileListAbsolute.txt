@@ -1,0 +1,9 @@
+D:\Github\ComparaTXT\ComparaTXT\bin\Release\ComparaTXT.exe.config
+D:\Github\ComparaTXT\ComparaTXT\bin\Release\ComparaTXT.exe
+D:\Github\ComparaTXT\ComparaTXT\bin\Release\ComparaTXT.pdb
+D:\Github\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.Form1.resources
+D:\Github\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.Properties.Resources.resources
+D:\Github\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.csproj.GenerateResource.cache
+D:\Github\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.csproj.CoreCompileInputs.cache
+D:\Github\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.exe
+D:\Github\ComparaTXT\ComparaTXT\obj\Release\ComparaTXT.pdb
