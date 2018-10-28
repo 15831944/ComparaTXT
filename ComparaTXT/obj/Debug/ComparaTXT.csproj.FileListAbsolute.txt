@@ -1,27 +1,9 @@
-C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.exe.config
-C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.exe
-C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.pdb
-C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.csprojResolveAssemblyReference.cache
-C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.Form1.resources
-C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.Properties.Resources.resources
-C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.csproj.GenerateResource.Cache
-C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.exe
-C:\Users\lino.cc\Desktop\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.pdb
-D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.exe.config
-D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.exe
-D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.pdb
-D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.csprojResolveAssemblyReference.cache
-D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.Form1.resources
-D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.Properties.Resources.resources
-D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.csproj.GenerateResource.Cache
-D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.exe
-D:\OneDrive\Programacao\02 C#\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.pdb
-N:\Lino\ComparaTXT\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.exe.config
-N:\Lino\ComparaTXT\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.exe
-N:\Lino\ComparaTXT\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.pdb
-N:\Lino\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.csprojResolveAssemblyReference.cache
-N:\Lino\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.Form1.resources
-N:\Lino\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.Properties.Resources.resources
-N:\Lino\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.csproj.GenerateResource.Cache
-N:\Lino\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.exe
-N:\Lino\ComparaTXT\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.pdb
+D:\Github\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.exe.config
+D:\Github\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.exe
+D:\Github\ComparaTXT\ComparaTXT\bin\Debug\ComparaTXT.pdb
+D:\Github\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.Form1.resources
+D:\Github\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.Properties.Resources.resources
+D:\Github\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.csproj.GenerateResource.cache
+D:\Github\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.csproj.CoreCompileInputs.cache
+D:\Github\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.exe
+D:\Github\ComparaTXT\ComparaTXT\obj\Debug\ComparaTXT.pdb
